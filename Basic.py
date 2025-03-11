@@ -50,13 +50,15 @@
 # Equal to
 # Not equal to
 
-a = int(input("Enter first number: "))
-b = int(input("Enter second number: "))
-print("a > b:", a > b)   
-print("a < b:", a < b)   
-print("a >= b:", a >= b) 
-print("a <= b:", a <= b) 
-print("a == b:", a == b) 
-print("a != b:", a != b)
+# a = int(input("Enter first number: "))
+# b = int(input("Enter second number: "))
+# print("a > b:", a > b)   
+# print("a < b:", a < b)   
+# print("a >= b:", a >= b) 
+# print("a <= b:", a <= b) 
+# print("a == b:", a == b) 
+# print("a != b:", a != b)
 
-
+X=2
+Y=3
+print(X+Y)
